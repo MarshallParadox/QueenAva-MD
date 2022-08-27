@@ -1,0 +1,24 @@
+{
+  "name": "QueenAva-MD",
+  "description": "Queen Ava is an advanced user bot made for WhatsApp to make your day-to-day tasks easier ❤",
+  "repository": "https://github.com/MarshallParadox/QueenAva-MD",
+  "logo": "https://i.ibb.co/zbZmYTB/HD-wallpaper-arwen-nightbreeze-art-fantasy-luminos-girl-elf-archer-ina-wong.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+} 
