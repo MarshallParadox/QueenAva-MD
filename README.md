@@ -1,187 +1,142 @@
-<p align="center">
-<img src="./database/kaveesha.gif" alt="Loading..." width="320"/>
-<p align="center">
+#### Select your language
 
-<h1 align="center">Queen Ava<br></h1>
-<p align="center">
-<img src="https://i.ibb.co/zbZmYTB/HD-wallpaper-arwen-nightbreeze-art-fantasy-luminos-girl-elf-archer-ina-wong.jpg" alt="QueenAva Bot" border="0">
- 
- 
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=Hey I'm Alive! 📢 ;Just Fork The Repo & Install Me 😁;A Project By Abacus Inc. ) ]
- 
- 
- #### Total Repository Views ⚙
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+[![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/MarshallParadox/QueenAva-MD/blob/launch/README.md)
+[![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/MarshallParadox/QueenAva-MD/blob/launch/README-SI.md)
 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
+<div align="center">
+  <img src="https://i.ibb.co/zbZmYTB/HD-wallpaper-arwen-nightbreeze-art-fantasy-luminos-girl-elf-archer-ina-wong.jpg" alt="QueenAva Bot" width="500" height="300">
+  <h1>❤ QUEEN AVA ❤</h1>
+</div>
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+   Queen Ava is an advanced user bot made for WhatsApp to make your daytoday tasks easier ❤
+    <br>
+        <a href="https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD">Whatsapp Group</a> |
+        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
+    <br>
 </p>
 
+---
+
 <p align="center">
-<a href="https://youtu.be/WiIqCdiDjFo"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-</p>
-
-------
-
-
-# ```Bot Info```
-<p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD4?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD4?color=red&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGDark/neroBot-MD4?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD4?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
-
--------
-
-## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/94774579505"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
-
-## # ```Bot NEW UPDATE ```
-<p align="center">
-
- 
-
-       2022 08 20 
-
-
--THENX FROM = vihanga & kumuthu    pramu & amra
-
-
- -𝙱𝙾𝚃 cricating = 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰
-
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
-
-
-
-    [`𝙱𝙾𝚃 cricating = 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰)
-
-
-
-
-
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
-
-## ```Donate Me```
-
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
-
-<p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
-</p>
-
-## ```Bot Support Groups```
-
-- [`1st GC`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
-- [`2nd GC`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
-- [`3rd GC`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
-
-
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
-
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT/fork)
-
-## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Kaveesha2006/DARK-NERO-BOT-1?v=1&lite=1#index.js)
-
-## `SETTINGS`
-
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT.git/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT.git/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT.git/blob/master/settings.js#L67)
-
-
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
-
-## ` BUILDPACKS`
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+  <a href="https://github.com/MarshallParadox/QueenAva-MD"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Docker pulls&query=count&url=https://github.com/agentnox/8gh32jk565/blob/main/automated_repo.json?raw=True&logo=github"></a>
   
+  </a>
+  <a href="https://github.com/MarshallParadox/QueenAva-MD">
+    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square&logo=github&label=Image Size">
+    
+  </a>
+</p>
 
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
+<p align="center">
 
- 
- 
- 
- 
- 
- 
- 
- 
-# Install Manually 👇
-## `Requirements`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-## `Clone Repo & Installation dependencies`
-```bash
-git clone https://github.com/Kaveeshasithum/DARK-NERO-BOT.git
-npm start
+  <a href="https://github.com/MarshallParadox/QueenAva-MD">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  </a>
+  <a href="https://github.com/MarshallParadox/QueenAva-MD/fork">
+    <img src="https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/MarshallParadox/QueenAva-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/MarshallParadox/QueenAurora?style=social">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarshallParadox/QueenAva-MD">
+    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
+
+  </a>
+  <a href="https://github.com/MarshallParadox/QueenAva-MD">
+    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
+
+  </a>
+  <a href="https://github.com/MarshallParadox/QueenAva-MD">
+    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
+
+  </a>
+  <a href="https://github.com/MarshallParadox/QueenAva-MD">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
+
+  </a>
+  </p>
+ <p align="center">
+  <a href="https://wa.me/94701282176">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
+
+  </a>
+</p>
+
 ```
-## `For Termux/Ssh/Ubuntu`
-```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/DGXeon/NeroBot-MD4
-cd NeroBot-MD
-npm start
+Queen Ava bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+The user is responsible for all possible consequences of misuse.
+This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
+Additionally, it enables plug-in support for users.
+Install their own plugins to the original software and use as they please.
+Usage is entirely the responsibility of the user. The operating system is not responsible.
+Have a fun! Be respectful!
 ```
-## `For VPS`
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/DGXeon/NeroBot-MD4
-cd DarkNero-MD2
-npm start
+
+## 📢 Guide
+
+> [Public Bot Group](https://chat.whatsapp.com/BnmKcWq0Zg20xBE4hmM8sG) (New)
+
+> [Contact Me](https://wa.me/94701282176)
+
+## 🔎 What is Queen Aurora Bot?
+
+**Queen Ava Bot,** is a WhatsApp userbot like Telegram bot.
+
+## Setup
+
+### Easy Method
+
+#### 01. Click Run on Repl.it (Computer users) and Run the qr generator by clicking play button.
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://levanter.up.railway.app/md)
+
+#### If you are a mobile phone user. You can get the QR code using Termux. (Android only. IOS users must use the repl.it button)
+
+#### 02. Click Deploy button
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MarshallParadox/QueenAva-MD)
+
+
+
+## F.A.Q
+
+Answer a few frequently asked questions;
+
+### Can you read my messages???
+
+Since this project is open source, all codes are clear. Not more or less; You can see what you want. **Your accounts are not accessible.**
+
+### What about our security?
+
+If you are concerned about security, you can install it on your own computer. If you think someone else has taken over your data, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
+
+### Do these bots have to pay??
+
+**Of course not.** It never happens. But you can donate to us. You can reach me via [Whatsapp](https://wa.me/94701282176) .
+
+## Thanks everyone!
+
+### We will always remember you..
+
+### ⚠️ Warning!
+
 ```
-## `For 24/7 Activation (Termux)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+Because of user bots; Your WhatsApp account can be banned.
+This is an open source project, you are responsible for everything you do.
+Certainly, Queen Amdi executives do not take responsibility.
+By setting up Queen Amdi Bot you are considered to have assumed these responsibilities.
 ```
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
+
+## License
+
+This project is protected by the `GNU General Public License v3.0.`
+Do not edit copyright messages!
+
+### Disclaimer
+
+`WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
