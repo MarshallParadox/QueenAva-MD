@@ -83,7 +83,7 @@ Have a fun! Be respectful!
 
 > [Contact Me](https://wa.me/94701282176)
 
-## 🔎 What is Queen Aurora Bot?
+## 🔎 What is Queen Ava Bot?
 
 **Queen Ava Bot,** is a WhatsApp userbot like Telegram bot.
 
